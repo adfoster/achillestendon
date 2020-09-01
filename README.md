@@ -2,6 +2,7 @@
 Data files and R code for a study characterizing spring-like behavior, tendon stress, and elastic energy storage of the Achilles tendon moderated by the Achilles tendon moment arm length.
 
 <i>Note: This article is currently under peer review</i>
+
 Citation: TBD.
 
 <b>Instructions:</b>
