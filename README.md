@@ -1,9 +1,7 @@
 # achillestendon
 Data files and R code for a study characterizing spring-like behavior, tendon stress, and elastic energy storage of the Achilles tendon in relation to the Achilles tendon moment arm length.
 
-<i>Note: This manuscript associated with this data and code is currently under peer review</i>
-
-Citation: TBD.
+Citation: Foster AD, Block B, Capobianco III F, Peabody JT, Puleo NA, Vegas A, Young JW. In Press. Shorter heels are linked with greater elastic energy storage in the Achilles tendon. Nature Scientific Reports.
 
 <b>Instructions:</b>
 
